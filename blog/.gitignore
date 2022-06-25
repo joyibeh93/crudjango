@@ -1,0 +1,6 @@
+db.sqlite3
+
+*.sqlites3
+*.env
+
+__pyche__
